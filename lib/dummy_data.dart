@@ -108,7 +108,7 @@ const DUMMY_MEALS = const [
     isGlutenFree: true,
     isLactoseFree: true,
     isVegan: true,
-    isVeg: true,
+    isVeg: false,
   ),
 
 
@@ -184,7 +184,7 @@ const DUMMY_MEALS = const [
       '=> 8 ounces tomato paste',
       '=> 2 tbsp minced onion & minced garlic',
       '=> 2 tablespoons oil',
-      '=> 1 lb. ground pork',
+      '=> 1 lb. ground chicken',
       '=> ½ cup minced carrots and red peppers',
       '=> 2 cups diced or thinly sliced hot dogs',
       '=> 1 cup water',
@@ -203,7 +203,7 @@ const DUMMY_MEALS = const [
     isGlutenFree: true,
     isLactoseFree: true,
     isVegan: true,
-    isVeg: true,
+    isVeg: false,
   ),
 
   Meal(
@@ -307,7 +307,7 @@ const DUMMY_MEALS = const [
     isGlutenFree: true,
     isLactoseFree: true,
     isVegan: true,
-    isVeg: true,
+    isVeg: false,
   ),
 
   Meal(
@@ -586,7 +586,7 @@ const DUMMY_MEALS = const [
     isGlutenFree: true,
     isLactoseFree: true,
     isVegan: true,
-    isVeg: true,
+    isVeg: false,
   ),
 
   Meal(
@@ -614,7 +614,7 @@ const DUMMY_MEALS = const [
     isGlutenFree: true,
     isLactoseFree: true,
     isVegan: true,
-    isVeg: true,
+    isVeg: false,
   ),
 
   Meal(
@@ -670,7 +670,7 @@ const DUMMY_MEALS = const [
     isGlutenFree: true,
     isLactoseFree: true,
     isVegan: true,
-    isVeg: true,
+    isVeg: false,
   ),
 
   Meal(
@@ -698,7 +698,7 @@ const DUMMY_MEALS = const [
     isGlutenFree: true,
     isLactoseFree: true,
     isVegan: true,
-    isVeg: true,
+    isVeg: false,
   ),
 
   Meal(
